@@ -10,7 +10,7 @@ This license is provided in both English and Ukrainian for convenience. In case 
 
 ## English Version
 
-### License "Nikchemno & Nesmachno"
+### License "Nikchemno & Nesmachno - Wider"
 
 #### 1. Permissions
 This license grants permission to:
@@ -45,7 +45,7 @@ By using this product, you automatically agree to the terms of this license.
 
 ## Українська версія
 
-### ﻿Ліцензія "Нікчемно і несмачно"
+### ﻿Ліцензія "Нікчемно і несмачно - Ширша"
 
 #### 1. Дозволи
 Ця ліцензія дозволяє:
